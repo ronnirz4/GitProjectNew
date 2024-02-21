@@ -26,7 +26,8 @@ Before running the script, ensure you have the following tools installed:
 2. Open a terminal window.
 3. Navigate to the directory where the script is located.
 4. Run the script with the following command:
-**Important: Run the script with the following command to ensure environment variables are set in the parent shell:**
+
+- **Important: Run the script with the following command to ensure environment variables are set in the parent shell:**
 
 ```diff
     source connect-aws.bash
