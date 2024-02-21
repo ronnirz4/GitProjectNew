@@ -36,7 +36,7 @@ Follow the prompts provided by the script to install and configure the AWS CLI, 
 
 ## Feedback
 
-Your feedback is valuable! If you encounter any issues or have suggestions for improvement, please open an issue or reach out to [Ron Hadad](ronh@comm-it.com).
+Your feedback is valuable! If you encounter any issues or have suggestions for improvement, please open an issue or reach out to [ronh@comm-it.com](ronh@comm-it.com).
 
 ## Resources
 
