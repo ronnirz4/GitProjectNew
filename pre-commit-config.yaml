@@ -1,0 +1,9 @@
+repos:
+  - repo: https://github.com/ronnirz4/GitProjectNew.git  
+    rev: main 
+    hooks:
+      - id: block-aws-commits
+        name: Block AWS Commits
+        entry: block_aws_commits.py  # Relative path to the Python script
+        language: python
+        types: [commit-msg]
